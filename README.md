@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Prerit Pal
 
-<!--
-**PreritPal/PreritPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science engineering student at Sharda University, building practical software projects around AI automation, full-stack development, and clean user interfaces.
 
-Here are some ideas to get you started:
+Currently, I'm working on **HuntAI**, an AI-based job automation system designed to make job discovery and application workflows smarter and more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- JavaScript
+- React
+- FastAPI
+- SQL
+- Git & GitHub
+- HTML & CSS
+
+## Featured Project
+
+### HuntAI
+An AI-based job automation system built as a full-stack project.
+
+**Focus areas:**
+- AI-assisted job search
+- Automation workflows
+- Full-stack web development
+- Backend APIs
+- Database integration
+
+**Tech used:** Python, React, FastAPI, SQL
+
+## Other Skills
+
+- Responsive UI development
+- REST API development
+- Database handling
+- Version control with Git
+- Project documentation
+
+## Currently Improving
+
+- Advanced React
+- Backend architecture with FastAPI
+- SQL and database design
+- English speaking fluency
+- Building recruiter-ready projects
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/prerit-pal
+- GitHub: https://github.com/PreritPal
