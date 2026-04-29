@@ -1,3 +1,15 @@
+## 🚀 HuntAI – AI Job Hunt Automation System
+
+I build AI-powered tools to automate real-world workflows.
+
+🔹 HuntAI helps users discover jobs, match skills, generate resumes, and prepare for interviews using AI.
+
+👉 https://github.com/PreritPal/growthhunter
+
+
+
+
+
 # Hi, I'm Prerit Pal
 
 I'm a Computer Science engineering student at Sharda University, building practical software projects around AI automation, full-stack development, and clean user interfaces.
