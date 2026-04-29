@@ -6,6 +6,9 @@ I build AI-powered tools to automate real-world workflows.
 
 👉 https://github.com/PreritPal/growthhunter
 
+## 🖥️ Project Preview
+
+![Dashboard](https://raw.githubusercontent.com/PreritPal/growthhunter/main/screenshots/dashboard.png)
 
 
 
