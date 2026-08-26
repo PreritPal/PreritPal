@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-HuntAI – AI-powered job matching platform<br>Full Stack or AI/ML web projects<br>RAG pipelines, LangChain, Agent frameworks<br>Next.js, Docker, LangChain, ChromaDB<br>FastAPI, React, HuntAI, AI integrations<br>I built an AI job hunter while managing 6 backlogs 😅
+HuntAI – AI-powered job matching platform<br>Full Stack or AI/ML web projects<br>RAG pipelines, LangChain, Agent frameworks<br>Next.js, Docker, LangChain, ChromaDB<br>FastAPI, React, HuntAI, AI integrations<br>I built an AI job hunter
 
 
 ## 🌐 Socials:
